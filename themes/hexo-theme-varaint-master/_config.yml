@@ -1,0 +1,57 @@
+
+
+# site icon
+favicon: /favicon.png
+
+# author headimg
+headimg: https://imgchr.github.la/steve.jpeg
+# author info
+name: Ezreal
+description: Stay Hungry,Stay Foolish.
+
+# search
+search: 
+    enable: true
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: true
+  menus:
+    -
+      name: Weibo
+      link: http://weibo.com/
+      target: _blank
+
+# count(统计)
+count:
+  enable: true
+
+# comments
+comments:
+  duoshuo_username:  justpsvm
+  #disqus_username: justpsvm
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+  -
+    name: weibo
+    link: http://weibo.com/5341564296
+  -
+    name: github
+    link: https://github.com/18203356710
+#  -
+#    name: zhihu
+#    link: https://www.zhihu.com/
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
